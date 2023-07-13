@@ -12,7 +12,7 @@
 
 
 <h1 align="center">Hey there! I'm Viola George Kamal 👋 </h1>
-<h3 align="center">🚀 Frontend Developer | MERN Stack | Open Source ♥ | Devops | Competitive Programmer  🚀</h3>
+<h3 align="center">🚀 Frontend Developer | MERN Stack | Open Source ♥ | Competitive Programmer  🚀</h3>
 <div>
 <img width = "45%" align="right" alt="PIC" height="300px" src="https://user-images.githubusercontent.com/111996941/220513120-9d514ca6-8c23-4fe5-a8b2-c579c7f5a9e3.png" />
 <div align="left"> 
